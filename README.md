@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-• 🌱 I’m currently learning **Java**...
-• 📫 How to reach me dqriuzmc@gmail.com
+- 🌱 I’m currently learning **Java**...
+- 📫 How to reach me dqriuzmc@gmail.com
 
   
 <a href="https://github.com/dqriuz">

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning **Java**...
-- 📫 How to reach me **Dariuz#0001**
+- 📫 How to reach me **Dariuz#7592**
 
   
 <a href="https://github.com/dqriuz">
